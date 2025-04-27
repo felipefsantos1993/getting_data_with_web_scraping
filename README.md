@@ -1,6 +1,6 @@
 # web_scraping-python
 
-![alt text](image-1.png)
+![alt text](web_scraping.png)
 #
 ### Requirements:
 ##### • Python 3.12
