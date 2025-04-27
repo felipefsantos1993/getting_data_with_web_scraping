@@ -1,2 +1,9 @@
 # web_scraping-python
-How to collect data from many types of sources using Python.
+
+![alt text](image.png)
+#
+### Requirements:
+##### • Python 3.12
+#
+### Project Description:
+###### How to collect data from many types of sources using Python.
